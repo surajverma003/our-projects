@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/our-projects/static/css/main.3f39bea6.css",
+    "main.js": "/our-projects/static/js/main.efa788a3.js",
+    "static/js/787.31b6c495.chunk.js": "/our-projects/static/js/787.31b6c495.chunk.js",
+    "static/media/grid-5.jpg": "/our-projects/static/media/grid-5.53402f3bdeaf29939a44.jpg",
+    "static/media/inovative-image.png": "/our-projects/static/media/inovative-image.a12fe594db35fa4403b8.png",
+    "static/media/OT12YY1-min.png": "/our-projects/static/media/OT12YY1-min.7ee86f36674302d31cd2.png",
+    "static/media/grid-3.jpg": "/our-projects/static/media/grid-3.70cc53980bfe3de0bb83.jpg",
+    "static/media/grid-2.jpg": "/our-projects/static/media/grid-2.4d25dcc6fb5a19a6fc6f.jpg",
+    "static/media/MOBILE APPLICATION.jpg": "/our-projects/static/media/MOBILE APPLICATION.976ffae91709b392b0bb.jpg",
+    "static/media/WEBSITE DESIGN.jpg": "/our-projects/static/media/WEBSITE DESIGN.60e94b1c46fd04e4b1a7.jpg",
+    "static/media/grid-4.jpg": "/our-projects/static/media/grid-4.605fdfee0ab39a76450c.jpg",
+    "static/media/CORPORATE DESIGN.jpg": "/our-projects/static/media/CORPORATE DESIGN.9075876d12a47ed97ce2.jpg",
+    "static/media/man.jpg": "/our-projects/static/media/man.2d06c00121c6e0b97bb2.jpg",
+    "static/media/DIGITAL PRODUCT.jpg": "/our-projects/static/media/DIGITAL PRODUCT.51f6c7bd95d6b38b6979.jpg",
+    "static/media/MOBILE APPLICATIONs.jpg": "/our-projects/static/media/MOBILE APPLICATIONs.626c3373c5003bb46981.jpg",
+    "static/media/RESPONSIVE DESIGN.jpg": "/our-projects/static/media/RESPONSIVE DESIGN.90542850a474d5a2c37b.jpg",
+    "static/media/c42bf2c3-4442-4eff-9f56-ac81f6939f02.jpg": "/our-projects/static/media/c42bf2c3-4442-4eff-9f56-ac81f6939f02.8c3d6b484f45cc8d50fe.jpg",
+    "static/media/grid-1.jpg": "/our-projects/static/media/grid-1.8329e6c5645080f63f3c.jpg",
+    "static/media/bf9015f8-07f4-48c4-a5f3-f979917b1c68.jpg": "/our-projects/static/media/bf9015f8-07f4-48c4-a5f3-f979917b1c68.26ae9123b3b6ad3acba2.jpg",
+    "static/media/background-wallpaper.jpg": "/our-projects/static/media/background-wallpaper.87b513bd368a39caea23.jpg",
+    "index.html": "/our-projects/index.html",
+    "main.3f39bea6.css.map": "/our-projects/static/css/main.3f39bea6.css.map",
+    "main.efa788a3.js.map": "/our-projects/static/js/main.efa788a3.js.map",
+    "787.31b6c495.chunk.js.map": "/our-projects/static/js/787.31b6c495.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f39bea6.css",
+    "static/js/main.efa788a3.js"
+  ]
+}
